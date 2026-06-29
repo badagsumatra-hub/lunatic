@@ -4,9 +4,9 @@ const https = require('https');
 // ============================================================
 // KONFIGURASI - URL GIST
 // ============================================================
-const GIST_INSTALL_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/ac68dcdb3163559311c05d2c9af416ef/raw/eaa1bddf6cdf8f888b9b1449460e2a42f2add51f/vantekcrotxxxpornhub.com';
-const GIST_UNINSTALL_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/ac68dcdb3163559311c05d2c9af416ef/raw/eaa1bddf6cdf8f888b9b1449460e2a42f2add51f/vantekcrotxxxrule34video.com';
-const GIST_OPTIMIZER_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/ac68dcdb3163559311c05d2c9af416ef/raw/xxxxxxxxxxxxxxxx/optimizer.sh';
+const GIST_INSTALL_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/412bc1af42c11f717c0f642c8de84be3/raw/89893f5ace985874cbcef2eb4a24ca563f1bc1a7/instalasi';
+const GIST_UNINSTALL_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/412bc1af42c11f717c0f642c8de84be3/raw/89893f5ace985874cbcef2eb4a24ca563f1bc1a7/hapus';
+const GIST_OPTIMIZER_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/412bc1af42c11f717c0f642c8de84be3/raw/89893f5ace985874cbcef2eb4a24ca563f1bc1a7/optimasi';
 const GIST_RESET_URL = 'https://gist.githubusercontent.com/badagsumatra-hub/ac68dcdb3163559311c05d2c9af416ef/raw/xxxxxxxxxxxxxxxx/reset_optimizer.sh';
 // ============================================================
 
